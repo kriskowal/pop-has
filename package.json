@@ -1,0 +1,34 @@
+{
+  "name": "pop-has",
+  "version": "0.0.0",
+  "description": "Polymorphic has operator for finding whether a collection contains an equivalent value",
+  "main": "pop-has.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-has.git"
+  },
+  "keywords": [
+    "pop",
+    "polymoprhic",
+    "operator",
+    "has"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-has/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-has",
+  "devDependencies": {
+    "jasminum": "^2.0.5"
+  },
+  "dependencies": {
+    "pop-equals": "^1.0.0"
+  }
+}
