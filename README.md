@@ -10,7 +10,7 @@ $ npm install --save pop-has
 ```
 
 ```js
-var has = require("pop-has/object-has");
+var has = require("pop-has/has");
 expect(has([1, 2, 3], 2)).toBe(true);
 expect(has({a: 10}), 10).toBe(true);
 expect(has(new Set([10]), 10)).toBe(true);
