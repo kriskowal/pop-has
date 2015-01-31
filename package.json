@@ -1,6 +1,6 @@
 {
   "name": "pop-has",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Polymorphic has operator for finding whether a collection contains an equivalent value",
   "main": "pop-has.js",
   "directories": {
